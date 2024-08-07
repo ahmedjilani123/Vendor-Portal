@@ -1,8 +1,12 @@
 # Vendor-Portal
 manage vendor details
-<h3>First Image for View the Vendor Details</h3>
+## View the Vendor Details
 <hr/>
 <br/>
-<img src="./Images/1.png" width="700px" height="400px"/>
-<h3>Second Image for search partially to the vendor details </h3>
-<img src="./Images/2.png" width="700px" height="400px"/>
+<img src="./Images/1.png" width="700px" height="400px" style="border:2px solid black;"/>
+
+## Search partially to the vendor details 
+
+<hr/>
+<br/>
+<img src="./Images/2.png" width="700px" height="400px" style="border:2px solid black;"/>
