@@ -22,6 +22,16 @@ manage vendor details
 ## If you want to see the vendor details click on the navigation button in the table of the particular department .
 
 <img src="./Images/5.png" width="700px" height="400px" style="border:10px solid black;"/>
+<p>Edit</p>
+<img src="./Images/6.png" width="700px" height="400px" style="border:10px solid black;"/>
+<p>Save</p>
+<img src="./Images/7.png" width="700px" height="400px" style="border:10px solid black;"/>
+<p>Particular Department Approve and Reject</p>
+<img src="./Images/8.png" width="700px" height="400px" style="border:10px solid black;"/>
+<p>Remark why it is approve and reject</p>
+<img src="./Images/9.png" width="700px" height="400px" style="border:10px solid black;"/>
+
+## -------------------------------------- END ------------------------------
 
 
 
