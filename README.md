@@ -8,3 +8,17 @@ manage vendor details
 
 <br/>
 <img src="./Images/2.png" width="700px" height="400px" style="border:10px solid black;"/>
+
+## Create a new vendor then submit it and vendor get a application link for fill other information.
+
+<img src="./Images/3.png" width="700px" height="400px" style="border:10px solid black;"/>
+<br/>
+<img src="./Images/4.png" width="700px" height="400px" style="border:10px solid black;"/>
+
+## After vendor fill all the details and then show the detail in the table
+<img src="./Images/5.png" width="700px" height="400px" style="border:10px solid black;"/>
+
+
+
+
+
